@@ -17,6 +17,7 @@
 # Пользователь также может ввести имя или фамилию, и Вы должны реализовать функционал
 # для изменения и удаления данных.
 # https://github.com/Baevar/phone_book.git
+# для него phon.txt
 
 from tkinter import *
 from tkinter.ttk import Combobox 
